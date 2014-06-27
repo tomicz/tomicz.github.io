@@ -37,4 +37,11 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   background: white;
+  border: 4px solid black;
+  color white;
+  border:-radius: 15px;  
 }
+
+
+
+
